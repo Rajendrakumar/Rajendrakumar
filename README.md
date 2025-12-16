@@ -1,5 +1,6 @@
 👋 Hi there, I’m a FullStack Principal Engineering Manager currently focused Java & MERN Stack along with Mobile Native Applications.
-- 🏢 I'm currently working at Altimetrik, Clients GuaranteedRate, eBay & WDC. 
+- 🏢 I am working as Key Delivery Manager and Growth Leader in Deloitte South Asia LLP
+- 🏢 I Worked at Altimetrik, Clients GuaranteedRate, eBay & WDC. 
 - 👀 I’m interested in Surfing Internet, Gadget Savy, Exploring Various types of Tools and apps, Project Management, Fintech, BFSI expert, QualityEngineering Automation. 
 - 🌱 I’m currently learning Cloud,Docker,Kubernetes,NodeJS
 - 💞️ I’m looking to collaborate on OpenSource, Cloud, Global Compliance Regulations(GDPR,CCPA)
